@@ -1,0 +1,158 @@
+@font-face {
+    font-family: 'karma_futureregular';
+    src: url('/static/fonts/karmafuture-webfont.woff2') format('woff2'),
+        url('/static/fonts/karmafuture-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'planet_kosmosregular';
+    src: url('/static/fonts/plank___-webfont.woff2') format('woff2'),
+         url('/static/fonts/plank___-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'bombingregular';
+    src: url('/static/fonts/bombing-webfont.woff2') format('woff2'),
+         url('/static/fonts/bombing-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'degrassiregular';
+    src: url('/static/fonts/degrassi-webfont.woff2') format('woff2'),
+         url('/static/fonts/degrassi-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'embossedgermanicaregular';
+    src: url('/static/fonts/embossed_germanica-webfont.woff2') format('woff2'),
+         url('/static/fonts/embossed_germanica-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'flutedgermanicaregular';
+    src: url('/static/fonts/fluted_germanica-webfont.woff2') format('woff2'),
+         url('/static/fonts/fluted_germanica-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'gang_bang_crimeregular';
+    src: url('/static/fonts/gang_bang_crime-webfont.woff2') format('woff2'),
+         url('/static/fonts/gang_bang_crime-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'most_waztedregular';
+    src: url('/static/fonts/mostwasted-webfont.woff2') format('woff2'),
+         url('/static/fonts/mostwasted-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ghang_regular';
+    src: url('/static/fonts/no_license_ghang-webfont.woff2') format('woff2'),
+         url('/static/fonts/no_license_ghang-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ghang_plain_';
+    src: url('/static/fonts/no_license_ghang_plain-webfont.woff2') format('woff2'),
+         url('/static/fonts/no_license_ghang_plain-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'painterzregular';
+    src: url('/static/fonts/painterz-webfont.woff2') format('woff2'),
+         url('/static/fonts/painterz-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'plaingermanicaregular';
+    src: url('/static/fonts/plain_germanica-webfont.woff2') format('woff2'),
+         url('/static/fonts/plain_germanica-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ruthless_drippin_oneregular';
+    src: url('/static/fonts/ruthlessdrippin1-webfont.woff2') format('woff2'),
+         url('/static/fonts/ruthlessdrippin1-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ruthless_wreckin_oneregular';
+    src: url('/static/fonts/ruthlesswreckin1-webfont.woff2') format('woff2'),
+         url('/static/fonts/ruthlesswreckin1-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
